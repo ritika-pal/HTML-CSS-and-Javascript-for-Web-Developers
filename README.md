@@ -2,7 +2,7 @@
 <h2>HTML-CSS-and-Javascript-for-Web-Developers</h2>
 <hr>
 <p>This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.</p>
-
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/ritika-pal/coursera-test/blob/main/HTML%20CSS.jpeg"><img src="https://github.com/ritika-pal/coursera-test/blob/main/HTML%20CSS.jpeg" alt="Course Completion certificate" style="max-width:100%;"></a></p>
 <h2>Assignments :</h2>
 <hr>
 <ul>
